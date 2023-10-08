@@ -1,0 +1,7 @@
+id=ksu-template
+name=KSU-Template
+version=v1
+versionCode=1
+author=SchweGELBin
+description=A Template Module for KernelSU
+updateJson=https://raw.githubusercontent.com/SchweGELBin/KernelSU-Module-Template/master/update.json
