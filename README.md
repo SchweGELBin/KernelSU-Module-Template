@@ -14,5 +14,10 @@
 - Add your code
 - Run Action "CI Build"
 
+## Features (in KSU Manager)
+- Flashable
+- Updatable
+- Shows ChangeLog
+
 ## Thanks / Credits
 **[tiann](https://github.com/tiann)** for KernelSU
