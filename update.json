@@ -1,6 +1,6 @@
 {
-  "version": "v1",
-  "versionCode": 1,
+  "version": "v2",
+  "versionCode": 2,
   "zipUrl": "https://github.com/SchweGELBin/KernelSU-Module-Template/releases/latest/download/KSU-Template.zip",
   "changelog": "https://raw.githubusercontent.com/SchweGELBin/KernelSU-Module-Template/master/CHANGELOG.md"
 }
